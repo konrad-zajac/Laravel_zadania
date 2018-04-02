@@ -18,3 +18,8 @@ v0.0.4
     * Walka z PermissionManager.
     * Koniec.
 
+v0.0.5
+
+    * Seed bazy danych.
+    * Koniec2.
+
